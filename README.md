@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1729,50:1F2A6E,100:3B6FD6&height=230&section=header&text=Hi,%20I'm%20Manahil%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%94%20Building%20intelligent,%20real-world%20systems&descAlignY=58&descSize=17&fontColor=E8EDFB" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B6FD6&center=true&vCenter=true&width=700&lines=AI+%26+ML+%7C+Deep+Learning+%7C+Data+Analytics;Built+an+AI+platform+that+won+HACKDATA+V1;Leading+30%2B+builders+at+GDG+Wah;Currently%3A+Diving+deep+into+AI+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=3B6FD6&center=true&vCenter=true&width=700&lines=AI+%26+ML+%7C+Deep+Learning+%7C+Data+Analytics;Built+an+AI+platform+that+won+HACKDATA+V1;Leading+30%2B+builders+at+GDG+Wah;Currently%3A+Diving+deep+into+AI+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,7 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <div align="center">
 
-<sub><strong> Languages</strong></sub>
+####  Languages
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -43,9 +43,8 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <br/><br/>
 
-<sub><strong> AI / Deep Learning</strong></sub>
+####  AI / Deep Learning
 <br/>
-<br/><br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -54,9 +53,8 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <br/><br/>
 
-<sub><strong> Data Science</strong></sub>
+####  Data Science
 <br/>
-<br/><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -64,11 +62,11 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <br/><br/>
 
-<sub><strong> Tools & Platforms</strong></sub>
+####  Tools & Platforms
 <br/>
-<br/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
@@ -77,7 +75,6 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
-
 
 ##  Featured Projects
 
@@ -180,7 +177,7 @@ Curriculum and hands-on notebooks for a 5-day bootcamp on Python, data analysis,
 
 ##  Let's Work Together
 
-I'm open to **remote internships**, **ML/Data Science projects**, and **research collaborations** — especially in applied deep learning and AI engineering.
+I'm open to **remote job**, **ML/Data Science projects**, and **research collaborations** — especially in applied deep learning and AI engineering.
 
 <a href="https://www.linkedin.com/in/manahillmirza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/></a>
 <a href="https://manahillsportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-3B6FD6?style=for-the-badge&logo=safari&logoColor=white" height="34"/></a>
