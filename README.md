@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
 
-## ⚡ About Me
+##  About Me
 
 ```yaml
 role: AI & Data Science Undergraduate @ COMSATS University Islamabad, Wah Campus
@@ -29,11 +29,11 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-<sub><strong>💻 Languages</strong></sub>
+<sub><strong> Languages</strong></sub>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -43,8 +43,9 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <br/><br/>
 
-<sub><strong>🧠 AI / Deep Learning</strong></sub>
+<sub><strong> AI / Deep Learning</strong></sub>
 <br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -53,8 +54,9 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <br/><br/>
 
-<sub><strong>📊 Data Science</strong></sub>
+<sub><strong> Data Science</strong></sub>
 <br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -62,11 +64,11 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <br/><br/>
 
-<sub><strong>⚙️ Tools & Platforms</strong></sub>
+<sub><strong> Tools & Platforms</strong></sub>
 <br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
@@ -77,13 +79,13 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🥈 Shahid AI
+###  Shahid AI
 <img src="https://img.shields.io/badge/HACKDATA%20V1-1st%20Runner--Up-F2C811?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-React%20%2B%20Gemini%20%2B%20RAG-3B6FD6?style=flat-square"/>
 
 Pakistan's first AI crime-evidence platform — bilingual forensic reports, a legal RAG system over the Pakistan Penal Code, and cryptographically tamper-proof evidence verification.
@@ -95,7 +97,7 @@ Pakistan's first AI crime-evidence platform — bilingual forensic reports, a le
 </td>
 <td width="50%" valign="top">
 
-### 🚑 DispatchPro
+###  DispatchPro
 <img src="https://img.shields.io/badge/Status-Private%20Repo-808080?style=flat-square"/> <img src="https://img.shields.io/badge/Scope-Full%20Stack-3B6FD6?style=flat-square"/>
 
 Emergency ambulance dispatch & hospital load-balancing system — live GPS tracking, intelligent ambulance assignment, real-time hospital-capacity monitoring.
@@ -109,7 +111,7 @@ Emergency ambulance dispatch & hospital load-balancing system — live GPS track
 <tr>
 <td width="50%" valign="top">
 
-### 🐶 Pet Emotion Recognition
+###  Pet Emotion Recognition
 <img src="https://img.shields.io/badge/Type-Computer%20Vision-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Python%20%2B%20OpenCV-3B6FD6?style=flat-square"/>
 
 Computer-vision pipeline classifying pet emotional states directly from images using image processing and ML.
@@ -121,7 +123,7 @@ Computer-vision pipeline classifying pet emotional states directly from images u
 </td>
 <td width="50%" valign="top">
 
-### 📊 Job Market Analysis
+###  Job Market Analysis
 <img src="https://img.shields.io/badge/Skills%20Found-10%2B-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Python%20%2B%20Scraping-3B6FD6?style=flat-square"/>
 
 Automated pipeline scraping live job postings from static & dynamic sources to surface in-demand AI/DS skills, salary ranges, and hiring trends.
@@ -135,7 +137,7 @@ Automated pipeline scraping live job postings from static & dynamic sources to s
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Apple Stock Price Prediction
+###  Apple Stock Price Prediction
 <img src="https://img.shields.io/badge/Type-Time%20Series-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Python%20%2B%20ML-3B6FD6?style=flat-square"/>
 
 Forecasting model exploring historical Apple stock data to predict future price movement.
@@ -147,7 +149,7 @@ Forecasting model exploring historical Apple stock data to predict future price 
 </td>
 <td width="50%" valign="top">
 
-### 📚 5-Day Data Science Bootcamp
+###  5-Day Data Science Bootcamp
 <img src="https://img.shields.io/badge/Reach-100%2B%20Learners-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Python%20%2B%20ML-3B6FD6?style=flat-square"/>
 
 Curriculum and hands-on notebooks for a 5-day bootcamp on Python, data analysis, and ML workflows, taught to 100+ registrants.
@@ -164,7 +166,7 @@ Curriculum and hands-on notebooks for a 5-day bootcamp on Python, data analysis,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
 
-## 🌍 Leadership
+##  Leadership
 
 **Google Developer Groups (GDG) Wah**
 &nbsp;·&nbsp; Women in Tech Lead → Data Science Team Lead → AI & DS Team Co-Lead
@@ -176,7 +178,7 @@ Curriculum and hands-on notebooks for a 5-day bootcamp on Python, data analysis,
 
 <div align="center">
 
-## 🤝 Let's Work Together
+##  Let's Work Together
 
 I'm open to **remote internships**, **ML/Data Science projects**, and **research collaborations** — especially in applied deep learning and AI engineering.
 
