@@ -2,15 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1729,50:1F2A6E,100:3B6FD6&height=230&section=header&text=Hi,%20I'm%20Manahil%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%94%20Building%20intelligent,%20real-world%20systems&descAlignY=58&descSize=17&fontColor=E8EDFB" width="100%"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B6FD6&center=true&vCenter=true&width=700&lines=AI+%26+ML+%7C+Deep+Learning+%7C+Data+Analytics;Built+an+AI+platform+that+won+HACKDATA+V1;Leading+30%2B+builders+at+GDG+Wah;Currently%3A+Diving+deep+into+AI+Engineering" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/manahillmirza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="32"/></a>
-<a href="https://manahillsportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-3B6FD6?style=for-the-badge&logo=safari&logoColor=white&labelColor=3B6FD6" height="32"/></a>
-<a href="mailto:manahhil213@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-1F2A6E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2A6E" height="32"/></a>
+<a href="https://www.linkedin.com/in/manahillmirza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/></a>
+<a href="https://manahillsportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-3B6FD6?style=for-the-badge&logo=safari&logoColor=white" height="34"/></a>
+<a href="mailto:manahhil213@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-E64A4A?style=for-the-badge&logo=gmail&logoColor=white" height="34"/></a>
 
 </div>
 
@@ -35,29 +33,42 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <div align="center">
 
-**Languages**
+<sub><strong>💻 Languages</strong></sub>
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-**AI / ML & Data**
-<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+<br/><br/>
 
-**Tools & Platforms**
+<sub><strong>🧠 AI / Deep Learning</strong></sub>
 <br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+<br/><br/>
+
+<sub><strong>📊 Data Science</strong></sub>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br/><br/>
+
+<sub><strong>⚙️ Tools & Platforms</strong></sub>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
@@ -65,57 +76,98 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
 
-## 🚀 Featured Work
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manahill-prac&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%"/>
+</div>
 
 <br/>
 
-### 🥈&nbsp; Shahid AI &nbsp;<sub>1st Runner-Up — HACKDATA V1 Hackathon</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
 
-Pakistan's first AI crime-evidence intelligence platform — bilingual forensic report generation with a legal RAG system built over the Pakistan Penal Code, plus cryptographically tamper-proof evidence verification.
+## 🚀 Featured Projects
 
-`React` `Google Gemini` `RAG` `Tailwind CSS` `Cryptography`
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🥈 Shahid AI
+<img src="https://img.shields.io/badge/HACKDATA%20V1-1st%20Runner--Up-F2C811?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-React%20%2B%20Gemini%20%2B%20RAG-3B6FD6?style=flat-square"/>
+
+Pakistan's first AI crime-evidence platform — bilingual forensic reports, a legal RAG system over the Pakistan Penal Code, and cryptographically tamper-proof evidence verification.
+
+`React` `Google Gemini` `RAG` `Tailwind` `Cryptography`
 
 **[→ View Repository](https://github.com/manahill-prac/HackDataV1_Hackathon_SHAHID-AI)**
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-### 🚑&nbsp; DispatchPro
+### 🚑 DispatchPro
+<img src="https://img.shields.io/badge/Status-Private%20Repo-808080?style=flat-square"/> <img src="https://img.shields.io/badge/Scope-Full%20Stack-3B6FD6?style=flat-square"/>
 
-Full-stack emergency ambulance dispatch & hospital load-balancing system — live GPS tracking, intelligent ambulance assignment, and real-time hospital-capacity monitoring across a connected mobile + web system.
+Emergency ambulance dispatch & hospital load-balancing system — live GPS tracking, intelligent ambulance assignment, real-time hospital-capacity monitoring.
 
-`Full-Stack` `Real-Time Systems` `Web` `Mobile`
+`Full-Stack` `Real-Time` `Web` `Mobile`
 
-**Private repository — available on request / walkthrough**
+**Available on request / live walkthrough**
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🐶&nbsp; Pet Emotion Recognition
+### 🐶 Pet Emotion Recognition
+<img src="https://img.shields.io/badge/Type-Computer%20Vision-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Python%20%2B%20OpenCV-3B6FD6?style=flat-square"/>
 
-A computer-vision pipeline that classifies pet emotional states directly from images using image processing and machine learning techniques.
+Computer-vision pipeline classifying pet emotional states directly from images using image processing and ML.
 
 `Python` `OpenCV` `Machine Learning`
 
 **[→ View Repository](https://github.com/manahill-prac/Dog-Emotion-Recognition)**
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-### 📊&nbsp; Web Scraping & Job Market Analysis
+### 📊 Job Market Analysis
+<img src="https://img.shields.io/badge/Skills%20Found-10%2B-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Python%20%2B%20Scraping-3B6FD6?style=flat-square"/>
 
-Automated pipeline scraping live job postings from static and dynamic sources to surface in-demand AI/Data Science skills, salary ranges, and hiring trends.
+Automated pipeline scraping live job postings from static & dynamic sources to surface in-demand AI/DS skills, salary ranges, and hiring trends.
 
 `Python` `Web Scraping` `EDA`
 
 **[→ View Repository](https://github.com/manahill-prac/Web_Scraping_and_Analysis_of_Job_Postings-dynamic)**
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📈&nbsp; Apple Stock Price Prediction
+### 📈 Apple Stock Price Prediction
+<img src="https://img.shields.io/badge/Type-Time%20Series-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Python%20%2B%20ML-3B6FD6?style=flat-square"/>
 
-Time-series forecasting model exploring historical Apple stock data to predict future price movement.
+Forecasting model exploring historical Apple stock data to predict future price movement.
 
 `Python` `Jupyter Notebook` `Machine Learning`
 
 **[→ View Repository](https://github.com/manahill-prac/Apple_Stock_Price_Prediction)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 5-Day Data Science Bootcamp
+<img src="https://img.shields.io/badge/Reach-100%2B%20Learners-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Python%20%2B%20ML-3B6FD6?style=flat-square"/>
+
+Curriculum and hands-on notebooks for a 5-day bootcamp on Python, data analysis, and ML workflows, taught to 100+ registrants.
+
+`Python` `Pandas` `Teaching`
+
+**[→ View Repository](https://github.com/manahill-prac/5Day_DataScience_Bootcamp)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -129,12 +181,17 @@ Time-series forecasting model exploring historical Apple stock data to predict f
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
+
 <div align="center">
 
-### Let's build something.
-Internships · Research · Collaboration — my inbox is always open.
+## 🤝 Let's Work Together
 
-<a href="mailto:manahhil213@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-3B6FD6?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+I'm open to **remote internships**, **ML/Data Science projects**, and **research collaborations** — especially in applied deep learning and AI engineering.
+
+<a href="https://www.linkedin.com/in/manahillmirza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/></a>
+<a href="https://manahillsportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-3B6FD6?style=for-the-badge&logo=safari&logoColor=white" height="34"/></a>
+<a href="mailto:manahhil213@gmail.com"><img src="https://img.shields.io/badge/Email-E64A4A?style=for-the-badge&logo=gmail&logoColor=white" height="34"/></a>
 
 <br/><br/>
 
