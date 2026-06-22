@@ -76,15 +76,6 @@ currently_learning: Production-grade AI Engineering & scalable ML systems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manahill-prac&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B6FD6,100:0F1729&height=3&width=1000" width="100%"/>
 
 ## 🚀 Featured Projects
 
